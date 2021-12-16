@@ -1,0 +1,42 @@
+h1{
+   color: rgb(35, 35, 44);
+   text-align: center;
+   font-size: 40px;
+   font-family:Arial, Helvetica, sans-serif;
+   font-weight: 500;
+
+}
+
+p{
+ text-align: center;
+ font-size: 30px;
+ color: black;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-weight:100;
+
+
+}
+
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.flex {
+    display: flex;
+    justify-content:space-around;
+}
+.flex img{
+    width: 600px;
+    width: 400px;
+    transition: 1s;
+    border: 10px  black
+    text
+
+} 
+.flex img:hover{
+     border-radius: 100px;
+}
+button{
+
+}
